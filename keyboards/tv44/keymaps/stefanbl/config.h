@@ -5,4 +5,7 @@
 
 #define PERMISSIVE_HOLD
 
+/* prevent stuck modifiers */
+#define PREVENT_STUCK_MODIFIERS
+
 #endif
